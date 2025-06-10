@@ -20,20 +20,6 @@ It helps users calculate their BMI based on height and weight and provides feedb
 - CSS3
 - JavaScript
 
----
-
-## 📸 Screenshot
-
-![BMI Calculator Screenshot]("C:\Users\Lamex\Downloads\Screenshot.png.jpg")
-
----
-
-## 🚀 Live Demo
-
-👉 [View Live Project on GitHub Pages](https://your-username.github.io/bmi-calculator/) *(update after hosting)*
-
----
-
 ## 🧠 How to Use
 
 1. Enter your height in centimeters.
